@@ -571,7 +571,7 @@ img.grayscale:hover { filter: grayscale(0); opacity: 1; transition-property: fil
 ----------------------------------------------*/
 .page-header { background: url(../images/robot_in_pit.jpg)no-repeat; position: relative; background-size: cover; }
 .page-caption { padding-top: 133px; padding-bottom: 133px; }
-.page-title { font-size: 48px; line-height: 1; color: #fff; font-weight: 600; text-transform: uppercase; }
+.page-title { font-size: 48px; line-height: 1; color: #000; font-weight: 600; text-transform: uppercase; }
 
 /*------- Breadcrumb ------*/
 

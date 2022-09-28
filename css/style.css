@@ -231,12 +231,12 @@ a img.aligncenter { display: block; margin-left: auto; margin-right: auto; }
 
 /*-------------- btn-link ----------*/
 .btn-secondary-link { color: #113d71; font-size: 14px; font-weight: 500; text-transform: uppercase; -webkit-transition: all 0.3s; -moz-transition: all 0.3s; transition: all 0.3s; position: relative; font-family: 'Montserrat', sans-serif; font-style: initial; letter-spacing: 1px; border-bottom: 1px solid #113d71; }
-.btn-secondary-link:hover { color: #440000; text-decoration: none; border-bottom: 1px solid #440000; }
+.btn-secondary-link:hover { color: #a8cce2; text-decoration: none; border-bottom: 1px solid #a8cce2; }
 button.btn { margin-right: -1px; }
 
-.btn-default-link { color: #440000; font-size: 14px; font-weight: 500; text-transform: uppercase; -webkit-transition: all 0.3s; -moz-transition: all 0.3s;
- transition: all 0.3s; position: relative; font-family: 'Montserrat', sans-serif; font-style: initial; letter-spacing: 1px; border-bottom: 1px solid #440000; }
-.btn-default-link:hover { color: #440000; text-decoration: none; border-bottom: 1px solid #440000; }
+.btn-default-link { color: #a8cce2; font-size: 14px; font-weight: 500; text-transform: uppercase; -webkit-transition: all 0.3s; -moz-transition: all 0.3s;
+ transition: all 0.3s; position: relative; font-family: 'Montserrat', sans-serif; font-style: initial; letter-spacing: 1px; border-bottom: 1px solid #a8cce2; }
+.btn-default-link:hover { color: #a8cce2; text-decoration: none; border-bottom: 1px solid #a8cce2; }
 
 
 .btn-primary-link { color: #55595e; font-size: 14px; font-weight: 500; text-transform: uppercase; -webkit-transition: all 0.3s; -moz-transition: all 0.3s;

@@ -687,7 +687,7 @@ img.grayscale:hover { filter: grayscale(0); opacity: 1; transition-property: fil
 10.3  Testimonials
 ----------------------------*/
 .testimonial-block { margin-bottom: 20px; }
-.testimonial-content { border: 2px solid #ecdeca; padding: 30px; background-color: #ffffff; position: relative; margin-bottom: 38px; }
+.testimonial-content { border: 2px solid #ecdeca; padding: 30px; background-color: #ffdfbf; position: relative; margin-bottom: 38px; }
 .testimonial-content:after { content: ''; width: 0px; height: 0px; border-left: 14px solid transparent; border-right: 14px solid transparent; border-top: 18px solid #ecdeca; position: absolute; bottom: -20px; }
 .testimonial-img img.border { border: 3px solid #fff !important; }
 .testimonial-text { font-size: 16px; font-style: italic; }
